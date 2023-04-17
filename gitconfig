@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = luc.perrot@hotmail.fr
+	email = gh api luc.perrot@hotmail.fr
 	name = luc perrot
